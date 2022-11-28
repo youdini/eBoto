@@ -27,7 +27,7 @@ const Signin = () => {
             backgroundColor: 'whitesmoke',
             borderRadius: 9,
           }
-        }>Sign in with Google</Text>
+        }>Sign in with Google!!!</Text>
         <TouchableOpacity style={styles.google}>
           <Googelicon />
         </TouchableOpacity>
