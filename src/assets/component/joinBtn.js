@@ -6,7 +6,7 @@ export default function Button(homescreenBtn) {
   return (
     <View>
     <Button style={styles.button} onPress={onPress}/>
-      <Text style={styles.text}>Create a Room</Text>
+      <Text style={styles.text}>Join a Room</Text>
     </View>
   );
   }
